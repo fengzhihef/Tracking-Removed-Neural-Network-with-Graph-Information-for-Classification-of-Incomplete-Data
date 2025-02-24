@@ -1,5 +1,17 @@
 # Tracking-Removed-Neural-Network-with-Graph-Information-for-Classification-of-Incomplete-Data
-This repository contains the implementation of the "Tracking-Removed Neural Network with Graph Information for Classification of Incomplete Data," which leverages graph information to tackle the challenges of classifying incomplete datasets.
+This repository is the offcial implement of the paper "Tracking-Removed Neural Network with Graph Information for Classification of Incomplete Data," which leverages graph information to tackle the challenges of classifying incomplete datasets.
+
+## Information of the paper
+@article{lai2025tracking,
+  title={Tracking-removed neural network with graph information for classification of incomplete data},
+  author={Lai, Xiaochen and Zhang, Zheng and Chen, Hui and Zhang, Liyong and Li, Zhuohan and Lu, Wei},
+  journal={Applied Intelligence},
+  volume={55},
+  number={3},
+  pages={1--20},
+  year={2025},
+  publisher={Springer}
+}
 
 ## Description
 The codebase includes implementations of three models discussed in the aforementioned paper: `AE-MTL.ipynb`, `TRAE-MTL.ipynb`, and `TGAN-MTL.ipynb`, each serving a unique role:
