@@ -1,7 +1,8 @@
 # Tracking-Removed-Neural-Network-with-Graph-Information-for-Classification-of-Incomplete-Data
-This repository is the offcial implement of the paper "Tracking-Removed Neural Network with Graph Information for Classification of Incomplete Data," which leverages graph information to tackle the challenges of classifying incomplete datasets.
+This repository is the official implement of the paper "Tracking-Removed Neural Network with Graph Information for Classification of Incomplete Data," which leverages graph information to tackle the challenges of classifying incomplete datasets.
 
 ## Information of the paper
+```latex
 @article{lai2025tracking,
   title={Tracking-removed neural network with graph information for classification of incomplete data},
   author={Lai, Xiaochen and Zhang, Zheng and Chen, Hui and Zhang, Liyong and Li, Zhuohan and Lu, Wei},
