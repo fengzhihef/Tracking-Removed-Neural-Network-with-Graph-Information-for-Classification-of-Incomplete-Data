@@ -13,6 +13,7 @@ This repository is the official implement of the paper "Tracking-Removed Neural 
   year={2025},
   publisher={Springer}
 }
+```
 
 ## Description
 The codebase includes implementations of three models discussed in the aforementioned paper: `AE-MTL.ipynb`, `TRAE-MTL.ipynb`, and `TGAN-MTL.ipynb`, each serving a unique role:
