@@ -15,6 +15,9 @@ This repository is the official implement of the paper "Tracking-Removed Neural 
 }
 ```
 
+## Framework
+![image](https://github.com/fengzhihef/Tracking-Removed-Neural-Network-with-Graph-Information-for-Classification-of-Incomplete-Data/blob/main/figs/framework.jpg)
+
 ## Description
 The codebase includes implementations of three models discussed in the aforementioned paper: `AE-MTL.ipynb`, `TRAE-MTL.ipynb`, and `TGAN-MTL.ipynb`, each serving a unique role:
 1. **Autoencoder-based Multi-task Learning Classification (AE-MTL)**: During training and prediction, incomplete data are input to the network, and the estimation of sample data and the probabilities of class labels are calculated based on the network. The values corresponding to the missing data are selected for imputation and the label corresponding to the maximum probability is used as the sample label.
